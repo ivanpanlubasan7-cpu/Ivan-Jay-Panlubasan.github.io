@@ -1,2 +1,3 @@
-# Ivan-Jay-Panlubasan.github.io
+# Ivan-Jay-Panlubasan
+
 Messaging App
